@@ -1,0 +1,4 @@
+input: 'data/survey.csv'
+output: 'results/model.pkl' 
+RANDOM_SEED:                   42
+TEST_FRACTION:                 0.2
